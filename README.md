@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Aadichimote/Aadichimote/raw/main/banner.png" alt="Banner">
+  <img src="https://avatars.githubusercontent.com/u/142667513?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
 </p>
 
 <!-- Introduction -->
