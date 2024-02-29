@@ -26,12 +26,13 @@
 
 - Frontend Development: HTML, CSS, JavaScript, React
 - Programing langage : python: numpy,django,c,c++
-- Tools: Git, VS Code, Docker
+- Tools: Git-Github, Photoshop...
+  
 
 
 ## Projects
 
-- Welcome to my GitHub profile! I'm Aditya Chimote., Apassionate developer interested in various technologies. Here's a bit about some of my projects:
+- Welcome to my GitHub profile! Here's a bit about some of my projects:
 
 ## Snake Game using Pygame 🐍
 
