@@ -61,7 +61,8 @@ Explore the project [here]([l[ink_to_newsvilla_app](https://github.com/Aadichimo
   <a href="https://github.com/Aadichimote"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:adityachimote@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/aditya-chimote-37a608280/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https:https://www.naukri.com/mnjuser/profile?id=&altresid"><img src="https://img.shields.io/badge/-Naukri.com-0084FF?style=flat-square&logo=naukri&logoColor=white" alt="Naukri.com"></a> </p>
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid"><img src="https://img.shields.io/badge/-Naukri.com-0084FF?style=flat-square&logo=naukri&logoColor=white" alt="Naukri.com"></a>
+
 
 <!-- Footer -->
 <p align="center">Show some ❤️ by starring repositories!</p>
