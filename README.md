@@ -38,7 +38,7 @@ Features:
 - Customizable settings for speed and difficulty
 - Score tracking and leaderboard functionality
 
-Check out the project repository [here](link_to_snake_game_repository).
+Check out the project repository [here]([l[[ink_to_newsvilla_app]](https://github.com/Aadichimote/snake_game)).
 
 ## NewsVilla React App 📰
 
@@ -52,7 +52,7 @@ Features:
 - Dark and light mode toggle for enhanced readability
 - Pagination for navigating through news articles
 
-Explore the project [here]([link_to_newsvilla_app](https://github.com/Aadichimote/NewsVilla.com)).
+Explore the project [here]([l[ink_to_newsvilla_app](https://github.com/Aadichimote/NewsVilla.com](https://github.com/Aadichimote/NewsVilla.com))).
 
 <!-- Connect with Me -->
 ## Connect with Me
