@@ -22,6 +22,37 @@
 - Frontend Development: HTML, CSS, JavaScript, React
 -Programing langage : python: numpy,django,c,c++
 - Tools: Git, VS Code, Docker
+- Welcome to my GitHub profile! I'm [Your Name], a passionate developer interested in various technologies. Here's a bit about some of my projects:
+
+## Projects
+
+## Snake Game using Pygame 🐍
+
+[![Snake Game](snake_game_thumbnail.png)]([link_to_snake_game_repository](https://github.com/Aadichimote/snake_game))
+
+Description:  
+The Snake Game is a classic arcade game implemented in Python using the Pygame library. It offers a nostalgic gaming experience with modern functionalities and features.
+
+Features:
+- Classic gameplay with intuitive controls
+- Customizable settings for speed and difficulty
+- Score tracking and leaderboard functionality
+
+Check out the project repository [here](link_to_snake_game_repository).
+
+## NewsVilla React App 📰
+
+[![NewsVilla](news_villa_thumbnail.png)](https://github.com/Aadichimote/NewsVilla.com)
+
+Description:  
+NewsVilla is a React web application that aggregates top news articles from various sources and presents them in an easy-to-read format. It utilizes the News API to fetch real-time news data and provides an intuitive user interface for browsing articles.
+
+Features:
+- Dynamic news feed with infinite scroll
+- Dark and light mode toggle for enhanced readability
+- Pagination for navigating through news articles
+
+Explore the project [here]([link_to_newsvilla_app](https://github.com/Aadichimote/NewsVilla.com)).
 
 <!-- Connect with Me -->
 ## Connect with Me
