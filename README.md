@@ -1,7 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/142667513?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
-</p>
+  <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/142667513?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default"></p>
 
 <!-- Introduction -->
 <h1 align="center">Hi there, I'm Aditya Chimote 👋</h1>
