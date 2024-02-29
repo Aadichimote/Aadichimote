@@ -22,7 +22,7 @@
 - Frontend Development: HTML, CSS, JavaScript, React
 -Programing langage : python: numpy,django,c,c++
 - Tools: Git, VS Code, Docker
-- Welcome to my GitHub profile! I'm [Your Name], a passionate developer interested in various technologies. Here's a bit about some of my projects:
+- Welcome to my GitHub profile! I'm Aditya Chimote., Apassionate developer interested in various technologies. Here's a bit about some of my projects:
 
 ## Projects
 
