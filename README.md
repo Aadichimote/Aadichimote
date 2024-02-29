@@ -20,7 +20,7 @@
 ## Skills
 
 - Frontend Development: HTML, CSS, JavaScript, React
--Programing langage : python: numpy,django,c,c++
+- Programing langage : python: numpy,django,c,c++
 - Tools: Git, VS Code, Docker
 
 
