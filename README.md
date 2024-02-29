@@ -5,7 +5,12 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi there, I'm Aditya Chimote 👋</h1>
-<p align="center">A passionate FRONTEND Develope 🚀</p>
+
+<p align="center"> • currently pursuing my Master of Computer Applications (MCA) degree and gathering programming knowledge. In the meantime, I am also trying to find an opportunity for an internship and job to utilize my knowledge and learn something new.</p>
+
+
+<p align="center"> •  I have knowledge of programming and skills like Python, HTML, CSS, JavaScript, and React.js and 
+      tools like git and github.</p>
 
 <!-- About Me -->
 ## About Me
