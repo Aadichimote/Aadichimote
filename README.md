@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Aadichimote/Aadichimote/raw/main/banner.jpg" alt="Banner">
+  <img src="https://github.com/Aadichimote/Aadichimote/raw/main/banner.png" alt="Banner">
 </p>
 
 <!-- Introduction -->
