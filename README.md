@@ -42,7 +42,7 @@ Check out the project repository [here](link_to_snake_game_repository).
 
 ## NewsVilla React App 📰
 
-[![NewsVilla](https://github.com/Aadichimote/NewsVilla.com)
+[!NewsVilla](https://github.com/Aadichimote/NewsVilla.com)
 
 Description:  
 NewsVilla is a React web application that aggregates top news articles from various sources and presents them in an easy-to-read format. It utilizes the News API to fetch real-time news data and provides an intuitive user interface for browsing articles.
