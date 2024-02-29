@@ -28,7 +28,7 @@
 
 ## Snake Game using Pygame 🐍
 
-[![Snake Game](snake_game_thumbnail.png)]([link_to_snake_game_repository](https://github.com/Aadichimote/snake_game))
+[![Snake Game]([link_to_snake_game_repository](https://github.com/Aadichimote/snake_game))
 
 Description:  
 The Snake Game is a classic arcade game implemented in Python using the Pygame library. It offers a nostalgic gaming experience with modern functionalities and features.
@@ -42,7 +42,7 @@ Check out the project repository [here](link_to_snake_game_repository).
 
 ## NewsVilla React App 📰
 
-[![NewsVilla](news_villa_thumbnail.png)](https://github.com/Aadichimote/NewsVilla.com)
+[![NewsVilla](https://github.com/Aadichimote/NewsVilla.com)
 
 Description:  
 NewsVilla is a React web application that aggregates top news articles from various sources and presents them in an easy-to-read format. It utilizes the News API to fetch real-time news data and provides an intuitive user interface for browsing articles.
