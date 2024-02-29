@@ -28,7 +28,7 @@
 
 ## Snake Game using Pygame 🐍
 
-[![Snake Game]([link_to_snake_game_repository](https://github.com/Aadichimote/snake_game))
+[!Snake Game]([link_to_snake_game_repository](https://github.com/Aadichimote/snake_game))
 
 Description:  
 The Snake Game is a classic arcade game implemented in Python using the Pygame library. It offers a nostalgic gaming experience with modern functionalities and features.
